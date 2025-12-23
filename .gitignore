@@ -2,3 +2,5 @@
 resume.pdf
 output.*
 .ipynb_checkpoints
+
+/.quarto/
